@@ -30,7 +30,7 @@
 **Backend & Databases**<br>
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" /> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" /> <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 
-**AI & Machine Learning**<br>
+**AI & Agents**<br>
 <img src="https://img.shields.io/badge/LangGraph-%23000000.svg?style=for-the-badge" alt="LangGraph" /> <img src="https://img.shields.io/badge/Gemini%20API-%238E75B2.svg?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API" /> <img src="https://img.shields.io/badge/Vector%20Search-%23FF6F00.svg?style=for-the-badge" alt="Vector Search" />
 
 **Tools & Platforms**<br>
