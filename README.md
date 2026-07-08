@@ -59,5 +59,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,100:3a7bd5&height=250&section=footer&animation=fadeIn" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,100:3a7bd5&height=120&section=footer&animation=fadeIn" alt="Footer Banner" />
 </div>
