@@ -19,26 +19,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/AnkitaKumariii/StrongApe">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=AnkitaKumariii&repo=StrongApe&theme=transparent&hide_border=false" alt="StrongApe" width="48%" />
-  </a>
-  <a href="https://github.com/AnkitaKumariii/careernest-job-portal">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=AnkitaKumariii&repo=careernest-job-portal&theme=transparent&hide_border=false" alt="CareerNest Job Portal" width="48%" />
-  </a>
-  <br/>
-  <br/>
-  <a href="https://github.com/AnkitaKumariii/LabelX">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=AnkitaKumariii&repo=LabelX&theme=transparent&hide_border=false" alt="LabelX" width="48%" />
-  </a>
-  <a href="https://github.com/AnkitaKumariii/Detector">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=AnkitaKumariii&repo=Detector&theme=transparent&hide_border=false" alt="Detector" width="48%" />
-  </a>
-</div>
-
----
 
 ### 💻 Tech Stack
 
