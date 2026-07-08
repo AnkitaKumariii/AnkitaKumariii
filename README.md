@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,100:3a7bd5&height=250&section=header&text=Ankita%20Kumari&fontSize=50&animation=fadeIn" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,100:3a7bd5&height=250&section=header&animation=fadeIn" alt="Header Banner" />
 </div>
 
 <h3 align="center">Software Development Enthusiast | Full-Stack Developer</h3>
@@ -54,4 +54,10 @@
   <a href="https://visitcount.itsvg.in">
     <img src="https://komarev.com/ghpvc/?username=AnkitaKumariii&icon=0&color=0" alt="Profile Views" />
   </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,100:3a7bd5&height=250&section=footer&animation=fadeIn" alt="Footer Banner" />
 </div>
