@@ -14,10 +14,10 @@
 
 ### 👋 About Me
 
-• 🚀 Aspiring Software Engineer passionate about full-stack development and intelligent software solutions.
-• 💻 Skilled in React, FastAPI, PostgreSQL, Redis, and modern web technologies.
-• 🌱 Committed to writing clean, maintainable code and building applications with great user experiences.
-• 🤝 Excited to collaborate on challenging projects and contribute to high-impact engineering teams.
+- •  Aspiring Software Engineer passionate about full-stack development and intelligent software solutions.
+- •  Skilled in React, FastAPI, PostgreSQL, Redis, and modern web technologies.
+- •  Committed to writing clean, maintainable code and building applications with great user experiences.
+- •  Excited to collaborate on challenging projects and contribute to high-impact engineering teams.
 ---
 
 ### 💻 Tech Stack
