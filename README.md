@@ -12,11 +12,12 @@
 
 ---
 
-### 💫 About Me
-- 🔭 Actively seeking internship opportunities to apply and expand my skills in software development.
-- ✨ Passionate about building innovative full-stack applications and contributing to open-source projects.
-- 💡 Eager to learn and collaborate in a dynamic team environment.
+### 👋 About Me
 
+• 🚀 Aspiring Software Engineer passionate about full-stack development and intelligent software solutions.
+• 💻 Skilled in React, FastAPI, PostgreSQL, Redis, and modern web technologies.
+• 🌱 Committed to writing clean, maintainable code and building applications with great user experiences.
+• 🤝 Excited to collaborate on challenging projects and contribute to high-impact engineering teams.
 ---
 
 ### 💻 Tech Stack
