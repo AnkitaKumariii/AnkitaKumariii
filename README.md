@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,100:3a7bd5&height=250&section=header&text=Ankita%20Kumari&fontSize=50&animation=fadeIn" alt="Header Banner" />
 </div>
 
-<h3 align="center">Software Development Enthusiast | Full-Stack Developer</h3>
+<h3 align="center">Software Development Enthusiast  Full-Stack Developer</h3>
 
 <div align="center">
   <a href="https://linkedin.com/in/ankita-kumari1312">
