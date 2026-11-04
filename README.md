@@ -1,4 +1,9 @@
 # Ankita Kumari
+## Education
+
+**National Institute of Technology (NIT), Agartala**
+
+B.Tech in Electronics and Instrumentation Engineering
 
 Software development enthusiast interested in building clean, useful applications.
 
@@ -30,10 +35,5 @@ Software development enthusiast interested in building clean, useful application
 - Finalist at Odoo India Hackathon and qualified for Round 2 of Adobe University Hackathon 2026.
 - Open-Source Contributor for GirlScript Summer of Code (GSSOC).
 
-## Education
-
-**National Institute of Technology (NIT), Agartala**
-
-B.Tech in Electronics and Instrumentation Engineering
 
 [LinkedIn](https://linkedin.com/in/ankita-kumari1312)
