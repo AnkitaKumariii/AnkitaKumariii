@@ -4,7 +4,7 @@ Software development enthusiast interested in building clean, useful application
 
 ## Technical Skills
 
-**Programming Languages:** Python, JavaScript, SQL, C++
+**Programming Languages:** Python, JavaScript, SQL, C++,
 
 **Frontend:** React.js, HTML5, CSS3, Tailwind CSS
 
@@ -15,6 +15,13 @@ Software development enthusiast interested in building clean, useful application
 **AI/LLM:** LangGraph, AI Agents, FastEmbed, Gemini Vision API, Vector Search, Tavily API
 
 **Tools & Concepts:** Git, GitHub, Vercel, Render, SDLC, OOP, Data Structures and Algorithms
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnkitaKumariii&show_icons=true&theme=radical&hide_border=true" alt="Ankita's GitHub stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitaKumariii&layout=compact&theme=radical&hide_border=true" alt="Top languages" height="180" />
+</p>
 
 ## Achievements
 
