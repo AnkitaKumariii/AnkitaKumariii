@@ -4,7 +4,7 @@ Software development enthusiast interested in building clean, useful application
 
 ## Technical Skills
 
-**Programming Languages:** Python, JavaScript, SQL, C++,
+**Programming Languages:** Python, JavaScript, SQL, C++
 
 **Frontend:** React.js, HTML5, CSS3, Tailwind CSS
 
