@@ -28,12 +28,5 @@ Software development enthusiast interested in building clean, useful application
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitaKumariii&layout=compact&theme=radical&hide_border=true" alt="Top languages" height="180" />
 </p>
 
-## Achievements
-
-- Solved 300+ DSA problems on LeetCode.
-- Bronze Medalist (Rank 395/3,062) in HackerRank Orchestrate (September 2026).
-- Finalist at Odoo India Hackathon and qualified for Round 2 of Adobe University Hackathon 2026.
-- Open-Source Contributor for GirlScript Summer of Code (GSSOC).
-
 
 [LinkedIn](https://linkedin.com/in/ankita-kumari1312)
